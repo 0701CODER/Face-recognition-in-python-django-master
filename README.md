@@ -20,27 +20,3 @@ Installing other packages
 ```bash
 pip install -r requirements.txt
 ```
-
-## Usage
-
-Firstly,open the terminal run below command it will clone git repository and then navigate to project folder,
-
-```bash
-git clone https://github.com/Divyansh6799/Face-recognition-in-python-django.git
-```
-
-and run the following command for run the django server,
-
-```bash
-python manage.py runserver
-```
-
-Then go to the browser and enter the url **http://127.0.0.1:8000/**
-
-&nbsp;
-
-
-**)ScreenShot**
-![](https://github.com/Divyansh6799/Face-recognition-in-python-django/blob/master/IMG20220424203310.jpg)
-![](https://github.com/Divyansh6799/Face-recognition-in-python-django/blob/master/IMG20220424203242.jpg)
-![](https://github.com/Divyansh6799/Face-recognition-in-python-django/blob/master/IMG20220424203436.jpg)
